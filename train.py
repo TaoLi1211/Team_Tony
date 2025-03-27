@@ -12,7 +12,7 @@ import seaborn as sns
 # matplotlib.rcParams['axes.unicode_minus'] = False
 
 # 1. Read data
-df = pd.read_csv('D:/code/aistudio/predictive_maintenance.csv')
+df = pd.read_csv('https://github.com/TaoLi1211/Team_Tony/blob/4ec5c3835939d10714d759ae04aa9d7a310e09de/predictive_maintenance.csv')
 print("Data preview:")
 print(df.head())
 print("\nData info:")
